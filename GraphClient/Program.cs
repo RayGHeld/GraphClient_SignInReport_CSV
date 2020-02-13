@@ -65,10 +65,6 @@ namespace GraphClient
         {
             Get_Users_SignIn_Logs().Wait();
 
-            //Create_B2CUser( "Joe Smoe", "Joe", "Smoe", "joesmoe", "joesmoe@rayheld.com" ).Wait();
-
-            //Set_AppRoles().Wait();
-
             Console.WriteLine( $"\nPress any key to close..." );
             Console.ReadKey();
         }
