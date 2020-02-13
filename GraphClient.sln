@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphClient", "GraphClient\GraphClient.csproj", "{8F4303F6-47A1-40D5-891C-8D374927727A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F4303F6-47A1-40D5-891C-8D374927727A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4303F6-47A1-40D5-891C-8D374927727A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4303F6-47A1-40D5-891C-8D374927727A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4303F6-47A1-40D5-891C-8D374927727A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8995670A-B8A6-4E52-AD30-3C48343CC1C9}
+	EndGlobalSection
+EndGlobal
